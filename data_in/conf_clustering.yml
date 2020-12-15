@@ -1,0 +1,8 @@
+clustering: 'dbscan'
+pca_comps: 'mle'
+eps_dbscan: 1.2
+min_samples_dbscan: 3
+metric_dbscan: 'euclidean'
+method_hac: 'ward'
+metric_hac: 'euclidean'
+max_cluster_hac: 15

@@ -1,0 +1,13 @@
+EMD-signal==0.2.10
+fastdtw==0.3.4
+joblib==0.17.0
+matplotlib==3.3.2
+numpy==1.19.2
+pandas==1.1.2
+pandas-datareader==0.9.0
+plotly==4.8.1
+PyYAML==5.3.1
+scikit-learn==0.23.2
+scipy==1.5.2
+seaborn==0.11.0
+statsmodels==0.12.1
